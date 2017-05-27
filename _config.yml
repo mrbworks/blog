@@ -4,20 +4,20 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "UX Bloggin'"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Where I write about matters of UX and HCI
 
 email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Monica'
+author: 'Monica'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/mrbworks
     desc:	Fork me on github
     share_url:
     share_title:
